@@ -1,4 +1,3 @@
-```
 # 📰 AI-based Article Summarizer
 
 An intelligent application that automatically generates concise summaries of articles from URLs or article headings. This project leverages natural language processing and machine learning to extract the most important information and present it in an easy-to-understand format.
