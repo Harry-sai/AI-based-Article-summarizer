@@ -553,7 +553,6 @@ Potential improvements and roadmap items for this project:
 | Total Files | 10+ |
 | Dependencies | 15+ Python packages |
 | Target Python Version | 3.8+ |
-| License | MIT |
 | Status | Active Development |
 
 ---
